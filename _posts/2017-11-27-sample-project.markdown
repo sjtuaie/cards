@@ -5,6 +5,7 @@ date:   2017-11-27 21:51:47 +0800
 categories: jekyll update
 img: sjtuaie-logo.png
 categories: [one, two]
+comments: true
 ---
 This is a test project introduction for sjtuaie.
 

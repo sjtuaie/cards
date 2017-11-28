@@ -9,12 +9,12 @@
 title: sjtuaie
 email: sjtuaie@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  l theme for portfolio, photography or any kind of blog.
+  Association of Innovation and entrepreneurship, SJTU.
   
   
   
-baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+baseurl: "/projects" # the subpath of your site, e.g. /blog
+url: "http://sjtuaie.sxl.cn" # the base hostname & protocol for your site
 
 #sidebar
 default-image: sjtuaie-logo.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -35,13 +35,13 @@ paginate_path: /page:num/
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: sjtuaie
 
 #social
 facebook: http://facebook.com/webjeda
 quora: http://quora.com/sharathdt
 twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+github: http://github.com/sjtuaie
 
 #facebook like box
 fb-app-id: 549480635219583
